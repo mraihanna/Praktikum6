@@ -23,7 +23,7 @@ class ThreadUtama {
         }
   }
   public void terima() {
-    int count = 0;
+    int count = 2;
         System.out.println ("\nBilangan Genap");
          for (int i = 0; i < 10; i++){
             System.out.print(count + " ");

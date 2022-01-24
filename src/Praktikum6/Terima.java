@@ -10,7 +10,7 @@ package Praktikum6;
  */
 public class Terima {
     public static void main(String args[]) throws java.io.IOException{
-        int count = 0;
+        int count = 2;
         System.out.println ("Bilangan Genap");
          for (int i = 0; i < 10; i++){
             System.out.print(count + " ");
