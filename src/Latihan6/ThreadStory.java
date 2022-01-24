@@ -23,7 +23,7 @@ public class ThreadStory extends Thread {
             } catch (InterruptedException ex) {
                 System.out.println(threadNumber + "Selesai");
             }
-            for (int i=1; i<=5;i++);{
+            for (int i=1; i<=5;i++){
 
             //System.out.println("perawat2");
             }
