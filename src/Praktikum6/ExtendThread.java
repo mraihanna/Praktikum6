@@ -4,10 +4,6 @@
  */
 package Praktikum6;
 
-/**
- *
- * @author ALDO DWIE RIZKY
- */
    public class ExtendThread extends Thread {
    
    int threadNumber;
